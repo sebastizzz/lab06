@@ -1,0 +1,26 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color:rgb(85, 77, 160);
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    color: chartreuse;
+}
+p {
+    font-size: 20px;
+    color: #2e743d;
+}
+
+.latina {
+    color: #212772;
+    font-size: 14px;
+}
+
+.chinese {
+    color: #885226;
+}
